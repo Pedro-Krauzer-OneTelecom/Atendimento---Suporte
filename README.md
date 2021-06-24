@@ -1,2 +1,2 @@
-# Atendimento-Suporte - https://bit.ly/wikiOneTelecom
+# Atendimento-Suporte - https://bit.ly/wikiOnetelecom
 ITs e treinamentos do setor de Atendimento mais focado na parte de Suporte, tendo os comandos mais utilizados e também os links mais úteis.
